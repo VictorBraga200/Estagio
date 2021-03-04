@@ -1,22 +1,10 @@
-table {
-    font-family: arial, sans-serif !important;
-    width: 100% !important;
-    padding-top: 30px !important;
-    padding-left: 50px !important;
-}
-
-td,
-th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
-
-body,
-header {
-    font-family: "Lato", sans-serif
-}
+    th,
+    td {
+        text-align: center !important;
+    }
+    
+    .citacao-bio {
+        margin: 20px 40px;
+        margin-left: 520px;
+        font-size: 18px;
+    }
